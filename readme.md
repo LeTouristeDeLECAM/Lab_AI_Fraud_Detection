@@ -1,7 +1,7 @@
 # Lab_AI_Fraud_Detection
 Laboratory AI at ECAM 2022/2023
 During this laboratory, we will work on fraud detection using machine learning.
-Supervisor : @kenN7
+Supervisor :  HASSELMANN Ken 
 
 ## Description
 We work on the Xente fraud detection challenge. The goal is to predict whether a transaction is fraudulent or not.
