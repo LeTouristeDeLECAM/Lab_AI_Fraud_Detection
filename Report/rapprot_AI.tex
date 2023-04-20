@@ -4,6 +4,8 @@
 \usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage{float}
+\usepackage{csvsimple}
+
 \graphicspath{./images/}
 
 \title{Rapport de laboratoire: \\Intelligence Artificielle}
@@ -20,7 +22,7 @@
 \end{figure}
 
 
-\paragraph{Superviseur :} Monsieur HASELMAN Ken
+\paragraph{Superviseur :} Monsieur HASSELMANN Ken
 
 
 
@@ -28,14 +30,54 @@
 \tableofcontents
 \pagebreak
 \section{Introduction}
-Dans le cadre des laboratoire d'intelligence artificielle,
- sous la supervision de Monsieur KEN notre projet se base sur la recherche de fraude à la carte bancaire.
-\section{Partie théorique}
+
+    Dans le cadre des laboratoires d'intelligence artificielle dispensé à l'ECAM en 2ème Master en ingénieur informatique.
+Sous la supervision de Monsieur HASSELMANN notre projet se base sur la recherche de fraude à la carte bancaire.
+Nous travaillons sur un jeu de données de transactions bancaires issues d'une compétition Xente de 2019.\\ \url{https://zindi.africa/competitions/xente-fraud-detection-challenge} \\
+
+Notre projet est disponible sur GitHub à l'adresse suivante :\\ \url{https://github.com/LeTouristeDeLECAM/Lab_AI_Fraud_Detection} \\
+Pour des question de propriété et droit les données ne sont pas disponibles sur GitHub.
+
+
+\section{Présentation des données}
+\subsection{Description des données}
+
+% Added description table 
+\begin{table}[h]
+\centering
+\csvautotabular{../../Data/Xente_Variable_Definitions.csv}
+\caption{Description des données}
+\end{table}
+
+Nous pouvons observer que certaines données ne sont pas utile pour obtenir un model. 
+Nous décidons de supprimer les colonnes suivantes :
+\begin{itemize}
+    \item CurrencyCode : Toutes les transactions sont en UGX soit en Shilling Ougandais.
+    \item CountryCode : Toutes les transactions sont en Ouganda.
+\end{itemize} 
+Nous pouvons également imaginer à première vue que les données Amount et Value sont similaires.
+Néanmoins suite à une analyse: \\ \\
+%Italique
+\emph{diff = test2["Amount"] - abs(test2["Value"])\\diff.describe()}\\
+
+nous pouvons observer que les deux colonnes ne sont pas totalement identiques.\\
+
+\begin{table}[h]
+    \centering
+    \csvautotabular{./images/Amout_Value_description.csv}
+    \caption{Description statistique de la différence entre Amount et Value}
+        
+ \end{table}
+
+
+
+
+
+
 \subsection{Recherche opérationnelle}
+
+kkjkjkjkjkjjkkjk
 \subsection{Recherche en intelligence artificielle}
-\section{Partie pratique}
-\subsection{mise en place}
-\subsection{résultats}
 \section{Conclusion}
 Nous avons observé une diminution de la divergence.
 \end{document}

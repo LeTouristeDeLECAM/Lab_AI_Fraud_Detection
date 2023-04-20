@@ -13,5 +13,5 @@ We dont provide the data in this repository due to proprietary reasons. You can 
 https://zindi.africa/competitions/xente-fraud-detection-challenge/data
 
 ## Path 
-The report is in the file `Lab_AI_Fraud_Detection.pdf` and the code is in the file `Lab_AI_Fraud_Detection.ipynb`.
+The report is in the directory `Report`, file `Lab_AI_Fraud_Detection.pdf` and the code is in the directory `Program`, file `Lab_AI_Fraud_Detection.ipynb`.
 
