@@ -33,10 +33,11 @@
 
     Dans le cadre des laboratoires d'intelligence artificielle dispensé à l'ECAM en 2ème Master en ingénieur informatique.
 Sous la supervision de Monsieur HASSELMANN notre projet se base sur la recherche de fraude à la carte bancaire.
-Nous travaillons sur un jeu de données de transactions bancaires issues d'une compétition Xente de 2019.\\ \url{https://zindi.africa/competitions/xente-fraud-detection-challenge} \\
+Nous travaillons sur un jeu de données de transactions bancaires issues d'Ouganda 
+ces données on été fournis lors d'une compétition Xente de 2019.\\ \url{https://zindi.africa/competitions/xente-fraud-detection-challenge} \\
 
 Notre projet est disponible sur GitHub à l'adresse suivante :\\ \url{https://github.com/LeTouristeDeLECAM/Lab_AI_Fraud_Detection} \\
-Pour des question de propriété et droit les données ne sont pas disponibles sur GitHub.
+Pour des questions de propriété et droit les données ne sont pas disponibles sur GitHub.
 
 
 \section{Présentation des données}
@@ -49,7 +50,10 @@ Pour des question de propriété et droit les données ne sont pas disponibles s
 \caption{Description des données}
 \end{table}
 
-Nous pouvons observer que certaines données ne sont pas utile pour obtenir un model. 
+\subsection{identification des Features}
+Dans un premier temps nous cherchons à identifier les features qui vont nous permettre de créer un modèle de prédiction de fraude.\\
+
+Nous pouvons observer que certaines données ne sont pas utile pour obtenir un modèle. 
 Nous décidons de supprimer les colonnes suivantes :
 \begin{itemize}
     \item CurrencyCode : Toutes les transactions sont en UGX soit en Shilling Ougandais.
@@ -61,7 +65,7 @@ Néanmoins suite à une analyse: \\ \\
 \emph{diff = test2["Amount"] - abs(test2["Value"])\\diff.describe()}\\
 
 nous pouvons observer que les deux colonnes ne sont pas totalement identiques.\\
-
+% ajout de la table csv
 \begin{table}[h]
     \centering
     \csvautotabular{./images/Amout_Value_description.csv}
@@ -69,7 +73,8 @@ nous pouvons observer que les deux colonnes ne sont pas totalement identiques.\\
         
  \end{table}
 
-
+Nous avons décidé de garder les données Amount et Value. Car sur les 193 fraudes que comporte le jeu de données, 
+17  fraudes sont réalisé quand Amount et Value sont différents (8,8\%).\\
 
 
 

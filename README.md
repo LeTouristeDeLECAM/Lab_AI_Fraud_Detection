@@ -15,3 +15,15 @@ https://zindi.africa/competitions/xente-fraud-detection-challenge/data
 ## Path 
 The report is in the directory `Report`, file `Lab_AI_Fraud_Detection.pdf` and the code is in the directory `Program`, file `Lab_AI_Fraud_Detection.ipynb`.
 
+## Authors
+DaveTheDudeFromECAM
+LeTouristeDeLECAM
+
+## Sources
+
+https://medium.com/coinmonks/handling-imbalanced-datasets-predicting-credit-card-fraud-544f5e74e0fd
+https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18
+https://pub.towardsai.net/fraud-detection-using-machine-learning-eae93f6c1bec
+
+
+

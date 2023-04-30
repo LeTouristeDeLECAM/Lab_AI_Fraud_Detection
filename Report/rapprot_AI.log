@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.4)  20 APR 2023 22:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.4)  21 APR 2023 00:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -304,7 +304,7 @@ Package hyperref Info: Link coloring OFF on input line 15.
 \@outlinefile=\write4
 \openout4 = `rapprot_AI.out'.
 
-<./images/Logo ECAM.png, id=27, 1778.14313pt x 1350.54562pt>
+<./images/Logo ECAM.png, id=31, 1778.14313pt x 1350.54562pt>
 File: ./images/Logo ECAM.png Graphic file (type png)
 <use ./images/Logo ECAM.png>
 Package pdftex.def Info: ./images/Logo ECAM.png  used on input line 20.
@@ -319,32 +319,37 @@ pdfTeX warning: pdflatex (file ./images/Logo ECAM.png): large interlaced PNG mig
 \openout5 = `rapprot_AI.toc'.
 
  [2]
-Underfull \hbox (badness 10000) in paragraph at lines 34--37
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
 
  []
 
 
-Overfull \hbox (124.4453pt too wide) in paragraph at lines 48--49
+Overfull \hbox (124.4453pt too wide) in paragraph at lines 49--50
  [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
  []
 
 [3
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.57 \end{itemize}
-                  ]
-Underfull \hbox (badness 10000) in paragraph at lines 58--62
+l.56 N
+      ous pouvons observer que certaines données ne sont pas utile pour obt...]
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--62
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
 
  []
 
@@ -352,23 +357,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--64
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.83 \end{document}
+l.88 \end{document}
                    ] (rapprot_AI.aux)
 Package rerunfilecheck Info: File `rapprot_AI.out' has not changed.
-(rerunfilecheck)             Checksum: 9D878C6E76EAD9C0734472F63CC068B8;991.
+(rerunfilecheck)             Checksum: 4B54D29F188EEA8E16C778003DC8A5D9;1189.
  ) 
 Here is how much of TeX's memory you used:
- 10695 strings out of 476334
- 183845 string characters out of 5787972
+ 10697 strings out of 476334
+ 183875 string characters out of 5787972
  1864382 words of memory out of 5000000
- 30951 multiletter control sequences out of 15000+600000
+ 30952 multiletter control sequences out of 15000+600000
  518519 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,77p,417b,498s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,77p,417b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\matth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on rapprot_AI.pdf (4 pages, 249319 bytes).
+Output written on rapprot_AI.pdf (4 pages, 251067 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 111 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
 
