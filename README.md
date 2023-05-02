@@ -26,4 +26,6 @@ https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be4
 https://pub.towardsai.net/fraud-detection-using-machine-learning-eae93f6c1bec
 
 
+random forest for feature selection : https://towardsdatascience.com/the-art-of-finding-the-best-features-for-machine-learning-a9074e2ca60d
+
 

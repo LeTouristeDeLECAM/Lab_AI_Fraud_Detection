@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.4)  21 APR 2023 00:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.4)  1 MAY 2023 15:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -304,7 +304,7 @@ Package hyperref Info: Link coloring OFF on input line 15.
 \@outlinefile=\write4
 \openout4 = `rapprot_AI.out'.
 
-<./images/Logo ECAM.png, id=31, 1778.14313pt x 1350.54562pt>
+<./images/Logo ECAM.png, id=23, 1778.14313pt x 1350.54562pt>
 File: ./images/Logo ECAM.png Graphic file (type png)
 <use ./images/Logo ECAM.png>
 Package pdftex.def Info: ./images/Logo ECAM.png  used on input line 20.
@@ -353,27 +353,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--78
 
  []
 
+<./images/correlation_pearson.png, id=55, 867.24pt x 722.7pt>
+File: ./images/correlation_pearson.png Graphic file (type png)
+<use ./images/correlation_pearson.png>
+Package pdftex.def Info: ./images/correlation_pearson.png  used on input line 83.
+(pdftex.def)             Requested size: 346.88986pt x 289.07487pt.
+
+Overfull \hbox (1.88986pt too wide) in paragraph at lines 83--84
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+
+ []
+
 [4
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.88 \end{document}
-                   ] (rapprot_AI.aux)
+l.99 \end{document}
+                   ] [5
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.99 \end{document}
+                    <./images/correlation_pearson.png>] (rapprot_AI.aux)
 Package rerunfilecheck Info: File `rapprot_AI.out' has not changed.
-(rerunfilecheck)             Checksum: 4B54D29F188EEA8E16C778003DC8A5D9;1189.
+(rerunfilecheck)             Checksum: 2F68D29E6B2FCBB4FE5243BABAE26A1F;750.
  ) 
 Here is how much of TeX's memory you used:
- 10697 strings out of 476334
- 183875 string characters out of 5787972
+ 10705 strings out of 476334
+ 184108 string characters out of 5787972
  1864382 words of memory out of 5000000
- 30952 multiletter control sequences out of 15000+600000
+ 30958 multiletter control sequences out of 15000+600000
  518519 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,77p,417b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,77p,396b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\matth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on rapprot_AI.pdf (4 pages, 251067 bytes).
+Output written on rapprot_AI.pdf (5 pages, 333964 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 62 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 109 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

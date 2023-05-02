@@ -76,13 +76,24 @@ nous pouvons observer que les deux colonnes ne sont pas totalement identiques.\\
 Nous avons décidé de garder les données Amount et Value. Car sur les 193 fraudes que comporte le jeu de données, 
 17  fraudes sont réalisé quand Amount et Value sont différents (8,8\%).\\
 
+\paragraph{Features à supprimer :}
+% figure import 
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.4]{./images/correlation_pearson.png}
+    \caption{Corrélation de Pearson entre les features} 
+\end{figure}
 
 
 
-\subsection{Recherche opérationnelle}
 
-kkjkjkjkjkjjkkjk
-\subsection{Recherche en intelligence artificielle}
+
+Nous pouvons observer que productCategory et productID sont fortement corrélés.
+il en est de même pour amount et value.\\
+
+Pour pousuivre notre analyse nous réalisons une analyse en composante principale (ACP) sur les données.\\
+Cette analyse nous permet de réduire la dimensionnalité de nos données et identifier les données qui sont les plus importantes.\\
+
 \section{Conclusion}
 Nous avons observé une diminution de la divergence.
 \end{document}

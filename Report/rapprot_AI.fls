@@ -642,6 +642,13 @@ INPUT ..\..\Data\Xente_Variable_Definitions.csv
 INPUT C:\Users\matth\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Users\matth\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT images\Amout_Value_description.csv
+INPUT .\images\correlation_pearson.png
+INPUT .\images\correlation_pearson.png
+INPUT images\correlation_pearson.png
+INPUT .\images\correlation_pearson.png
+INPUT .\images\correlation_pearson.png
+INPUT .\images\correlation_pearson.png
+INPUT .\images\correlation_pearson.png
 INPUT rapprot_AI.aux
 INPUT .\rapprot_AI.out
 INPUT .\rapprot_AI.out
