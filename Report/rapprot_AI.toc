@@ -1,7 +1,9 @@
-\contentsline {paragraph}{Superviseur :}{1}{section*.1}%
+\contentsline {paragraph}{Superviseur :}{1}{section*.2}%
 \contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
 \contentsline {section}{\numberline {2}Présentation des données}{3}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Description des données}{3}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}identification des Features}{3}{subsection.2.2}%
-\contentsline {paragraph}{Features à supprimer :}{4}{figure.1}%
-\contentsline {section}{\numberline {3}Conclusion}{5}{section.3}%
+\contentsline {paragraph}{Features à supprimer :}{4}{figure.caption.7}%
+\contentsline {subsection}{\numberline {2.3}Optimization de la Feature TransactionStartTime}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Unbalanced Data}{6}{section.3}%
+\contentsline {section}{\numberline {4}Conclusion}{6}{section.4}%

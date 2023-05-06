@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.4)  1 MAY 2023 15:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.4)  6 MAY 2023 23:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -259,39 +259,64 @@ Package shellesc Info: Restricted shell escape enabled on input line 77.
 \c@csvrow=\count286
 \c@csvcol=\count287
 \csv@out=\write3
+) (C:\Users\matth\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+ (C:\Users\matth\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (C:\Users\matth\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen158
+\captionmargin=\dimen159
+\caption@leftmargin=\dimen160
+\caption@rightmargin=\dimen161
+\caption@width=\dimen162
+\caption@indent=\dimen163
+\caption@parindent=\dimen164
+\caption@hangindent=\dimen165
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count288
+\c@continuedfloat=\count289
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count290
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count291
 ) (rapprot_AI.aux)
 \openout1 = `rapprot_AI.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
  (C:\Users\matth\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count288
-\scratchdimen=\dimen158
+\scratchcounter=\count292
+\scratchdimen=\dimen166
 \scratchbox=\box57
-\nofMPsegments=\count289
-\nofMParguments=\count290
+\nofMPsegments=\count293
+\nofMParguments=\count294
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count291
-\MPscratchDim=\dimen159
-\MPnumerator=\count292
-\makeMPintoPDFobject=\count293
+\MPscratchCnt=\count295
+\MPscratchDim=\dimen167
+\MPnumerator=\count296
+\makeMPintoPDFobject=\count297
 \everyMPtoPDFconversion=\toks29
 ) (C:\Users\matth\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -299,15 +324,17 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\matth\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 15.
+Package hyperref Info: Link coloring OFF on input line 16.
  (rapprot_AI.out) (rapprot_AI.out)
 \@outlinefile=\write4
 \openout4 = `rapprot_AI.out'.
 
-<./images/Logo ECAM.png, id=23, 1778.14313pt x 1350.54562pt>
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+<./images/Logo ECAM.png, id=31, 1778.14313pt x 1350.54562pt>
 File: ./images/Logo ECAM.png Graphic file (type png)
 <use ./images/Logo ECAM.png>
-Package pdftex.def Info: ./images/Logo ECAM.png  used on input line 20.
+Package pdftex.def Info: ./images/Logo ECAM.png  used on input line 21.
 (pdftex.def)             Requested size: 266.70996pt x 202.5731pt.
  [1
 
@@ -319,47 +346,42 @@ pdfTeX warning: pdflatex (file ./images/Logo ECAM.png): large interlaced PNG mig
 \openout5 = `rapprot_AI.toc'.
 
  [2]
-Underfull \hbox (badness 10000) in paragraph at lines 34--38
+Underfull \hbox (badness 10000) in paragraph at lines 35--39
 
  []
 
 
-Overfull \hbox (124.4453pt too wide) in paragraph at lines 49--50
+Overfull \hbox (124.4453pt too wide) in paragraph at lines 50--51
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
-[3
-pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.56 N
-      ous pouvons observer que certaines données ne sont pas utile pour obt...]
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 64--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
+Underfull \hbox (badness 10000) in paragraph at lines 64--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--78
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
-<./images/correlation_pearson.png, id=55, 867.24pt x 722.7pt>
+<./images/correlation_pearson.png, id=66, 867.24pt x 722.7pt>
 File: ./images/correlation_pearson.png Graphic file (type png)
 <use ./images/correlation_pearson.png>
-Package pdftex.def Info: ./images/correlation_pearson.png  used on input line 83.
+Package pdftex.def Info: ./images/correlation_pearson.png  used on input line 85.
 (pdftex.def)             Requested size: 346.88986pt x 289.07487pt.
 
-Overfull \hbox (1.88986pt too wide) in paragraph at lines 83--84
+Overfull \hbox (1.88986pt too wide) in paragraph at lines 85--86
  [][] 
  []
 
@@ -367,41 +389,128 @@ Overfull \hbox (1.88986pt too wide) in paragraph at lines 83--84
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--93
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--96
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
 
  []
 
-[4
-pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.99 \end{document}
-                   ] [5
-pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.99 \end{document}
-                    <./images/correlation_pearson.png>] (rapprot_AI.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--104
+
+ []
+
+[4]
+<./images/TransactionStartTime_recurrence_every_transaction.png, id=75, 867.24pt x 722.7pt>
+File: ./images/TransactionStartTime_recurrence_every_transaction.png Graphic file (type png)
+<use ./images/TransactionStartTime_recurrence_every_transaction.png>
+Package pdftex.def Info: ./images/TransactionStartTime_recurrence_every_transaction.png  used on input line 108.
+(pdftex.def)             Requested size: 173.44493pt x 144.53743pt.
+<./images/TransactionStartTime_recurrence_fraud.png, id=76, 867.24pt x 722.7pt>
+File: ./images/TransactionStartTime_recurrence_fraud.png Graphic file (type png)
+<use ./images/TransactionStartTime_recurrence_fraud.png>
+Package pdftex.def Info: ./images/TransactionStartTime_recurrence_fraud.png  used on input line 111.
+(pdftex.def)             Requested size: 173.44493pt x 144.53743pt.
+<./images/TransactionStartTime_proportion_fraud.png, id=77, 867.24pt x 722.7pt>
+File: ./images/TransactionStartTime_proportion_fraud.png Graphic file (type png)
+<use ./images/TransactionStartTime_proportion_fraud.png>
+Package pdftex.def Info: ./images/TransactionStartTime_proportion_fraud.png  used on input line 113.
+(pdftex.def)             Requested size: 173.44493pt x 144.53743pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: ./images/TransactionStartTime_recurrence_every_transaction.png Graphic file (type png)
+<use ./images/TransactionStartTime_recurrence_every_transaction.png>
+Package pdftex.def Info: ./images/TransactionStartTime_recurrence_every_transaction.png  used on input line 120.
+(pdftex.def)             Requested size: 103.50105pt x 86.24606pt.
+File: ./images/TransactionStartTime_recurrence_fraud.png Graphic file (type png)
+<use ./images/TransactionStartTime_recurrence_fraud.png>
+Package pdftex.def Info: ./images/TransactionStartTime_recurrence_fraud.png  used on input line 121.
+(pdftex.def)             Requested size: 103.50105pt x 86.24606pt.
+File: ./images/TransactionStartTime_proportion_fraud.png Graphic file (type png)
+<use ./images/TransactionStartTime_proportion_fraud.png>
+Package pdftex.def Info: ./images/TransactionStartTime_proportion_fraud.png  used on input line 122.
+(pdftex.def)             Requested size: 103.50105pt x 86.24606pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--135
+
+ []
+
+[5 <./images/correlation_pearson.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+<./images/TransactionStartTime_recurrence_every_transaction_new_feature.png, id=84, 867.24pt x 722.7pt>
+File: ./images/TransactionStartTime_recurrence_every_transaction_new_feature.png Graphic file (type png)
+<use ./images/TransactionStartTime_recurrence_every_transaction_new_feature.png>
+Package pdftex.def Info: ./images/TransactionStartTime_recurrence_every_transaction_new_feature.png  used on input line 148.
+(pdftex.def)             Requested size: 103.50105pt x 86.24606pt.
+<./images/TransactionStartTime_recurrence_fraud_new_feature.png, id=85, 867.24pt x 722.7pt>
+File: ./images/TransactionStartTime_recurrence_fraud_new_feature.png Graphic file (type png)
+<use ./images/TransactionStartTime_recurrence_fraud_new_feature.png>
+Package pdftex.def Info: ./images/TransactionStartTime_recurrence_fraud_new_feature.png  used on input line 151.
+(pdftex.def)             Requested size: 103.50105pt x 86.24606pt.
+<./images/TransactionStartTime_proportion_fraud_new_feature.png, id=86, 867.24pt x 722.7pt>
+File: ./images/TransactionStartTime_proportion_fraud_new_feature.png Graphic file (type png)
+<use ./images/TransactionStartTime_proportion_fraud_new_feature.png>
+Package pdftex.def Info: ./images/TransactionStartTime_proportion_fraud_new_feature.png  used on input line 154.
+(pdftex.def)             Requested size: 103.50105pt x 86.24606pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: ./images/TransactionStartTime_recurrence_every_transaction_new_feature.png Graphic file (type png)
+<use ./images/TransactionStartTime_recurrence_every_transaction_new_feature.png>
+Package pdftex.def Info: ./images/TransactionStartTime_recurrence_every_transaction_new_feature.png  used on input line 175.
+(pdftex.def)             Requested size: 103.50105pt x 86.24606pt.
+File: ./images/TransactionStartTime_recurrence_fraud_new_feature.png Graphic file (type png)
+<use ./images/TransactionStartTime_recurrence_fraud_new_feature.png>
+Package pdftex.def Info: ./images/TransactionStartTime_recurrence_fraud_new_feature.png  used on input line 175.
+(pdftex.def)             Requested size: 103.50105pt x 86.24606pt.
+File: ./images/TransactionStartTime_proportion_fraud_new_feature.png Graphic file (type png)
+<use ./images/TransactionStartTime_proportion_fraud_new_feature.png>
+Package pdftex.def Info: ./images/TransactionStartTime_proportion_fraud_new_feature.png  used on input line 175.
+(pdftex.def)             Requested size: 103.50105pt x 86.24606pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
+
+ []
+
+
+Overfull \hbox (16.35252pt too wide) in paragraph at lines 185--195
+\OT1/cmr/m/n/10 vailler avec plusieurs m^^Sethodes. Nous pou-vons utiliser des m^^Sethodes d'Oversampling
+ []
+
+
+Overfull \hbox (1.79697pt too wide) in paragraph at lines 185--195
+\OT1/cmr/m/n/10 d'undersampling al^^Seatoire cou-pler avec un al-go-rithme de boost-ing. Con-ceptuelle-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--195
+
+ []
+
+[6] [7 <./images/TransactionStartTime_recurrence_every_transaction.png> <./images/TransactionStartTime_recurrence_fraud.png> <./images/TransactionStartTime_proportion_fraud.png>] [8 <./images/TransactionStartTime_recurrence_every_transaction_new_feature.png> <./images/TransactionStartTime_recurrence_fraud_new_feature.png> <./images/TransactionStartTime_proportion_fraud_new_feature.png>] (rapprot_AI.aux)
 Package rerunfilecheck Info: File `rapprot_AI.out' has not changed.
-(rerunfilecheck)             Checksum: 2F68D29E6B2FCBB4FE5243BABAE26A1F;750.
+(rerunfilecheck)             Checksum: 88738E0E00AA1C5A8C5D53EA7D55A6E5;1175.
  ) 
 Here is how much of TeX's memory you used:
- 10705 strings out of 476334
- 184108 string characters out of 5787972
+ 12183 strings out of 476334
+ 214866 string characters out of 5787972
  1864382 words of memory out of 5000000
- 30958 multiletter control sequences out of 15000+600000
- 518519 words of font info for 54 fonts, out of 8000000 for 9000
+ 32409 multiletter control sequences out of 15000+600000
+ 518818 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,77p,396b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\matth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on rapprot_AI.pdf (5 pages, 333964 bytes).
+ 75i,9n,77p,465b,496s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\matth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on rapprot_AI.pdf (8 pages, 462740 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 158 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
