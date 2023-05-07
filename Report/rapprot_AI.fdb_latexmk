@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1683409309 "c:/Users/matth/OneDrive - ECAM/Documents/Cours ECAM/4MIN/Q2 21-22/IA/LABO 2023/Lab_AI_Fraud_Detection/Report/rapprot_AI.tex" "rapprot_AI.pdf" "rapprot_AI" 1683409312 0
+["pdflatex"] 1683467722 "c:/Users/matth/OneDrive - ECAM/Documents/Cours ECAM/4MIN/Q2 21-22/IA/LABO 2023/Lab_AI_Fraud_Detection/Report/rapprot_AI.tex" "rapprot_AI.pdf" "rapprot_AI" 1683467729 0
   "../../Data/Xente_Variable_Definitions.csv" 1682021305 1089 e5fedd8a64cbe604761411df4012968f ""
   "C:/Users/matth/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1683406507 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/matth/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1682021315 11548 2232a0530c4d3d170392e3d43fe77417 ""
@@ -103,13 +103,13 @@
   "images/TransactionStartTime_proportion_fraud_new_feature.png" 1683364472 18291 3a0a4f7a4b16ecb7ca55077345d7d6d7 ""
   "images/TransactionStartTime_recurrence_every_transaction.png" 1683192575 22482 e5c505442a95e79724e712c1b084c1c5 ""
   "images/TransactionStartTime_recurrence_every_transaction_new_feature.png" 1683363230 22251 8208bd25c33a7b7b4ea0a1eac95c497c ""
-  "images/TransactionStartTime_recurrence_fraud.png" 1683192574 20046 3f4b21193bb24f49871c0d0c545479b4 ""
+  "images/TransactionStartTime_recurrence_fraud.png" 1683467713 36095 bd4cee3c832bb2dba5cca07d5b35d232 ""
   "images/TransactionStartTime_recurrence_fraud_new_feature.png" 1683363243 19437 d1cd7022c3de46fe18e631d77888438a ""
   "images/correlation_pearson.png" 1682878413 106349 f1711652a6a027843f523d70fb05def5 ""
-  "rapprot_AI.aux" 1683409312 3268 4d86f43350700ba796a26f975842171d "pdflatex"
-  "rapprot_AI.out" 1683409312 1175 88738e0e00aa1c5a8c5d53ea7d55a6e5 "pdflatex"
+  "rapprot_AI.aux" 1683467728 3268 4d86f43350700ba796a26f975842171d "pdflatex"
+  "rapprot_AI.out" 1683467728 1175 88738e0e00aa1c5a8c5d53ea7d55a6e5 "pdflatex"
   "rapprot_AI.tex" 1683409308 9485 f0da5e0e8f48e584a4214965c9e120b5 ""
-  "rapprot_AI.toc" 1683409312 713 816c6681eb7e81aa22051e38ea0551c5 "pdflatex"
+  "rapprot_AI.toc" 1683467728 713 816c6681eb7e81aa22051e38ea0551c5 "pdflatex"
   (generated)
   "rapprot_AI.aux"
   "rapprot_AI.log"
